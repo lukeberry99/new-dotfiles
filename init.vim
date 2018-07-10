@@ -23,6 +23,6 @@ call plug#end()
 "
 
 " Set colorsceme to nord
-colorscheme nord
+silent! colorscheme nord
 " Activate nord airline theme
 let g:airline_theme='nord'
